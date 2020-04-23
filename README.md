@@ -1,4 +1,4 @@
-# Python_coding
+# Hackerrank solutions
 
 
-The scripts in this repo show the solution of some coding challenges proposed on some platforms such as Hackerrank. 
+The scripts in this repo show the solution of some coding challenges proposed on Hackerrank
